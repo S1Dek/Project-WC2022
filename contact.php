@@ -23,9 +23,6 @@ if(!isset($_SESSION['logged']))
 	<br><br><br>
 		<h2>Kontakt</h2>		
 		<p> Kontakt to twórców:<br>
-			korczjakub@gmail.pl<br>
-			marcinratajczak1911@gmail.com<br>
-			lub napisać na popularnej aplikacji messenger !		
 		</p>
 	</div>
 </body>
